@@ -1,0 +1,85 @@
+.page{
+    background-image: url(newwwww.png);
+    background-attachment:scroll;
+    height:640px;
+    width: 1432px;
+    background-position-x: center;
+    background-position-y: center;
+}
+h1{
+    text-align: center;
+    font-family:monospace;
+    font-size:50px;
+    background-attachment: fixed;
+    margin-top:3px;
+    margin-bottom: 3px;
+    padding:2px;
+    width:100%;
+}
+.heading{
+    background-color: rgb(53, 52, 54);
+    background-attachment: fixed;
+    color: aliceblue;
+    padding-bottom: 1px;
+    width:100%;
+   
+}
+.exp{
+    text-align:left;
+    font-size:20px;
+    width: 100%;
+    background-color: #dbc7e8;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+
+
+}
+
+ h2{
+    text-align: center;
+    color:  rgb(241, 236, 246);
+    background-color: rgba(194, 130, 226, 0.734);
+    width:100%;
+
+}
+.textt{
+    text-align: center;
+    background-color: rgb(53, 52, 54);
+    color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width:100%;
+}
+
+.c{
+    text-align: center;
+    width:50%;
+
+}
+select,
+textarea{
+width: 28%;
+padding : 8px;
+margin: 10px;}
+
+button[type= "button"]:hover{
+background-color: rgb(146, 231, 163);}
+.a{
+text-align: right;
+width: 100%;
+height:0px;
+padding-top: 8px;
+padding-bottom: 2px;
+background-color: #dbc7e8;
+}
+.c{
+    text-align: center;
+    background-color: #e3d6ed;
+    color:black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width:100%;
+    text-decoration: none;
+    
+}
